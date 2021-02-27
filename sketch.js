@@ -11,7 +11,7 @@ function preload()
 {
 	starImg = loadImage("star.png");
 	fairyImg = loadAnimation("fairy1.png","fairy2.png");
-	bgImg = loadImage("starNight.png");
+	bgImg = loadImage("starnight.png");
 	fairyVoice = loadSound("JoyMusic.mp3");
 
 }
